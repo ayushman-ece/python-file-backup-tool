@@ -96,7 +96,9 @@ Backup location: D:\Backups\backup_20261026_120000
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Ayushman Tiwari**
+
+GitHub: https://github.com/ayushman-ece
 
 Python learning and portfolio project.
 
